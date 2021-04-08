@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chef Me Please</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stripePublishableKey">pk_live_51Iayg3LoPP9TIG8xZTVCJobBIaIbIOWI5oLoHFhv3C1pCGXj3fKekwcTK5uy5rcPXXJopseiUrHKfKlbFlg7VCFU007wZ0S1IV</string>
+
+</resources>

@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "882887858862",
+    "firebase_url": "https://chef-me-please-default-rtdb.firebaseio.com",
+    "project_id": "chef-me-please",
+    "storage_bucket": "chef-me-please.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882887858862:android:0242d9b844c4945df02b3f",
+        "android_client_info": {
+          "package_name": "com.muibsols.chefmeplease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882887858862-iai6mn53ssh6ksda91pei1jidn85cs1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muibsols.chefmeplease",
+            "certificate_hash": "773e2792ab5b1ff3cd09f0be0f8aadf3c7fb8d6d"
+          }
+        },
+        {
+          "client_id": "882887858862-r1nk5telr934q2ssfes8uls48mea03el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muibsols.chefmeplease",
+            "certificate_hash": "961433b4eff2d05a471bfd41e38cac9846f3d4bf"
+          }
+        },
+        {
+          "client_id": "882887858862-r22grq9ibl12o0vldm5obmrkmgl16nh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muibsols.chefmeplease",
+            "certificate_hash": "197284519d05fa34c38e66300edb5522234cf06d"
+          }
+        },
+        {
+          "client_id": "882887858862-1shfm5tfcbvtkuf8p28mqgvh584cpvkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBbJLiG-QsJjFW5xKItFXFaOOAjiQIZWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882887858862-1shfm5tfcbvtkuf8p28mqgvh584cpvkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882887858862:android:a86c73ecfdce35d9f02b3f",
+        "android_client_info": {
+          "package_name": "com.muibsols.cmpadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882887858862-e02q5as2tbi290kdchudrhodtmi6d6bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muibsols.cmpadmin",
+            "certificate_hash": "2881a43be5d134b72ed8c20209b851aafcee3cf1"
+          }
+        },
+        {
+          "client_id": "882887858862-m7902j52d1o5j7p2k7nh9tmtab61bdec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muibsols.cmpadmin",
+            "certificate_hash": "197284519d05fa34c38e66300edb5522234cf06d"
+          }
+        },
+        {
+          "client_id": "882887858862-1shfm5tfcbvtkuf8p28mqgvh584cpvkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBbJLiG-QsJjFW5xKItFXFaOOAjiQIZWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882887858862-1shfm5tfcbvtkuf8p28mqgvh584cpvkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

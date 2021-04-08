@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Home">
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/ic_baseline_person_24"
+                android:title="Profile" />
+
+            <item
+                android:id="@+id/activeOrders"
+                android:icon="@drawable/ic_baseline_notifications_none_24"
+                android:title="Active Orders" />
+
+            <item
+                android:id="@+id/userFav"
+                android:icon="@drawable/ic_baseline_food_bank_24"
+                android:title="Favorite Dishes" />
+
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_baseline_exit_to_app_24"
+                android:title="Log Out" />
+
+        </menu>
+    </item>
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/rateApp"
+                android:icon="@drawable/ic_baseline_rate_review_24"
+                android:title="Rate This App" />
+            <item
+                android:id="@+id/shareApp"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="Share This App" />
+<!--
+            <item
+                android:id="@+id/privacyPolicy"
+                android:icon="@drawable/ic_baseline_privacy_tip_24"
+                android:title="Privacy Policy" />-->
+        </menu>
+    </item>
+</menu>
